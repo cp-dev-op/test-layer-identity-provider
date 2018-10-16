@@ -1,6 +1,6 @@
 {
   "name": "Layer Identity Provider",
-  "description": "Basic identity provider to handle authentication with Layer",
+  "description": "Basic identity provider to handle authentication with Layer1",
   "website": "https://docs.layer.com/",
   "env": {
     "LAYER_KEY_ID": {
